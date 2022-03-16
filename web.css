@@ -40,6 +40,15 @@ background-color: white;
     width: 1000px ;
     background-color: aqua;
 }
+button:hover{
+
+    color:black;
+    background-color: white;
+    
+}
+button{
+    width: 150px; height: 50px; margin-left: 45px; background-color: black; color: aqua; 
+}
 
     
 
