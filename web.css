@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: #FDE9DB;
+    height: 450px;
+    margin: auto ;
+    line-height: 350px;
+
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    
+}
+#div2{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.image{
+
+height: 430px;
+background-color: white;
+
+}
+.img{
+    height: 400px;
+    width: 700px;
+    padding: 20px;
+    float: left;
+    margin-left: 20px;
+    
+}
+.pere{
+    height: 200px;
+    width: 1000px ;
+    background-color: aqua;
+}
+
+    
+
